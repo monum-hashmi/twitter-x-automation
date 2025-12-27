@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Chrome / Selenium profiles
+BotChromeProfile/
+
+# Logs
+*.log
+
+# Runtime data
+comment_history.json
+
+# Drivers
+chromedriver.exe
+
+# Editor
+.vscode/
+
+# Python
+__pycache__/
+
